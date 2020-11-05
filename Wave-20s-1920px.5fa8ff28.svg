@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="xMidYMid" 
+style="z-index:1;margin-right:-2px;display:block;background-color:rgb(241, 242, 243);animation-play-state:paused" >
+<g transform="" >
+<linearGradient id="lg-0.5261037565591948" x1="0" x2="1" y1="0" y2="0" >
+<stop stop-color="#0051a2" offset="0" ></stop>
+
+  
+<stop stop-color="#1b75be" offset="1" ></stop></linearGradient>
+<path d="M 0 0 L 0 613.09 Q 320 617.409 640 577.871 T 1280 583.635 T 1920 418.335 L 1920 0 Z" fill="url(#lg-0.5261037565591948)" opacity="0.4" style="opacity:0.4;animation-play-state:paused" ></path>
+<path d="M 0 0 L 0 473.772 Q 320 620.325 640 600.048 T 1280 522.981 T 1920 544.692 L 1920 0 Z" fill="url(#lg-0.5261037565591948)" opacity="0.4" style="opacity:0.4;animation-play-state:paused" ></path>
+<path d="M 0 0 L 0 588.109 Q 320 598.358 640 565.839 T 1280 434.671 T 1920 374.719 L 1920 0 Z" fill="url(#lg-0.5261037565591948)" opacity="0.4" style="opacity:0.4;animation-play-state:paused" ></path></g></svg>
